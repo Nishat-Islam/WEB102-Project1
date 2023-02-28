@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[Kapture 2023-02-27 at 21 50 47](https://user-images.githubusercontent.com/88332199/221741113-89c77f38-9736-4cde-9a22-614c152e5a3b.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/88332199/221741544-075c57f9-58f6-442c-a171-777af09f0ea5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS 
